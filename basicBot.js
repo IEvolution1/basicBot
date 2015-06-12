@@ -542,7 +542,7 @@
                         rankInt = 3;
                         break;
                     case "bouncer":
-                        rankInt = 2;
+                        rankInt = 3;
                         break;
                     case "residentdj":
                         rankInt = 1;
