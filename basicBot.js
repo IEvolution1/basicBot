@@ -2666,7 +2666,6 @@
                                 }, time * 60 * 1000, user.id);
                             }
                         }
-                        else API.sendChat(subChat(basicBot.chat.muterank, {name: chat.un}));
                     }
                 }
             },
