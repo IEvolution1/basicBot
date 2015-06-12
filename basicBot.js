@@ -2240,7 +2240,7 @@
             },
 
             killCommand: {
-                command: 'kill',
+                command: 'ekill',
                 rank: 'bouncer',
                 type: 'exact',
                 functionality: function (chat, cmd) {
